@@ -29,10 +29,11 @@ img {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  font-size: 32px;
 }
 
 .text-banner h1 {
-  font-size: 32px;
+  font-size: 64px;
 }
 #personal-info span {
   font-weight: bold;
