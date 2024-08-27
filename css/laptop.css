@@ -340,11 +340,15 @@ section > .container {
 }
 /* Phần 8.2. table + viền */
 .project-1 {
-  margin-top: -20px;
+  margin-top: -15px;
+}
+.project-2 {
+  margin-top: -15px;
 }
 .project-3 {
   margin-top: -15px;
 }
+
 .row {
   border: 1px solid #d0d0d0;
 }
@@ -374,6 +378,7 @@ section > .container {
   text-decoration: none;
   color: black;
 }
+
 /* Phần 9 */
 #footer ul {
   display: flex;
