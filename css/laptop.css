@@ -109,10 +109,10 @@ section > .container {
   align-items: center;
 }
 #about h1 {
-  padding: 50px 0;
+  padding: 50px 0 20px;
 }
 #personal-info h1 {
-  padding-left: 50px;
+  padding-left: 100px;
 }
 #target {
   padding-left: calc(100% - 585px + 50px);
@@ -131,13 +131,13 @@ section > .container {
   background-color: #f1f3f5;
 }
 .mt-40-info {
-  padding-left: 50px;
+  padding-left: 100px;
   list-style-type: none;
   color: gray;
   line-height: 1.5;
 }
 .personal-info-item {
-  padding: 50px;
+  padding: 50px 100px;
   color: #199cdb;
 }
 /* Phần 4*/
@@ -378,7 +378,9 @@ section > .container {
   text-decoration: none;
   color: black;
 }
-
+.project-table .description {
+  height: 220px;
+}
 /* Phần 9 */
 #footer ul {
   display: flex;

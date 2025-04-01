@@ -35,3 +35,12 @@
     grid-row: 1/-1;
   }
 }
+#personal-info h1 {
+  padding-left: 50px;
+}
+.mt-40-info {
+  padding-left: 50px;
+}
+.personal-info-item {
+  padding: 50px;
+}

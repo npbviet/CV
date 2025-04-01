@@ -3,11 +3,20 @@
   .text-nav img {
     display: none;
   }
+  .text-banner {
+    top: 30%;
+    left: 10%;
+    transform: none;
+    font-size: 20px;
+  }
+  .text-banner h1 {
+    font-size: 26px;
+  }
   .space {
     display: none;
   }
   .topnav {
-    display: block;
+    display: none;
   }
   #about h1,
   .personal-info-item {
